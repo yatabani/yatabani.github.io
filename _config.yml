@@ -1,24 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-defaults:
-  -
-    scope:
-      path: ''
-    values:
-      excerpt_separator: <!--more-->
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: 'post'
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: 'page'
+
 # Name of your site (displayed in the header)
 name: @yatabani.com
 
