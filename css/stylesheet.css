@@ -440,13 +440,6 @@ p {
   margin-top: 0;
 }
 
-a {
-  color: #2879d0;
-}
-a:hover {
-  color: #2268b2;
-}
-
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -456,7 +449,7 @@ header {
 }
 
 
-header h1, a {
+header h1 {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
@@ -482,6 +475,13 @@ header nav {
   color:#ccc;
   font-size:20px;
   margin-top:20px;
+}
+
+a {
+  color: #2879d0;
+}
+a:hover {
+  color: #2268b2;
 }
 
 .inner {
