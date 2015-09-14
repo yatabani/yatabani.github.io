@@ -474,16 +474,19 @@ header h2 {
 header nav {
   float:right;
   position:relative;
-  color:#ccc;
   font-size:20px;
-  margin-top:100px;
+  margin-top:140px;
   margin-right:300px;
 }
 
-#main-content a {
+header nav a {
+  color:#ccc !important;
+}
+
+a {
   color: #2879d0;
 }
-#main-content a:hover {
+a:hover {
   color: #2268b2;
 }
 
