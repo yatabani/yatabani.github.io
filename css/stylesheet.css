@@ -456,7 +456,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #fff;
+  color: #fff !important; 
   letter-spacing: -1px;
 }
 
