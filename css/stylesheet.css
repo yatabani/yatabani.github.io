@@ -480,10 +480,10 @@ header nav {
   margin-right:200px;
 }
 
-a {
+#main-content a {
   color: #2879d0;
 }
-a:hover {
+#main-content a:hover {
   color: #2268b2;
 }
 
