@@ -473,10 +473,10 @@ header h2 {
 
 header nav {
   float:right;
-  position:relative;
+  position: absolute;
+  top: 0;
+  right: 0;
   font-size:20px;
-  margin-top:40px;
-  margin-right:300px;
 }
 
 header nav a {
