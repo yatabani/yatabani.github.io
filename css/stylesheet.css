@@ -838,6 +838,13 @@ footer a:hover {
   header h2 {
     font-size: 24px;
   }
+  header nav {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    float:right;
+  }
   header a.button {
     position: relative;
     display: inline-block;
