@@ -473,7 +473,7 @@ header h2 {
 
 header nav {
   position: absolute;
-  top: 0;
+  bottom: 0;
   right: 0;
   font-size:20px;
 }
@@ -842,7 +842,6 @@ footer a:hover {
     display: inline-block;
     width: auto;
     height: auto;
-    float:right;
   }
   header a.button {
     position: relative;
