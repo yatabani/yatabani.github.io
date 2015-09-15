@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classic ASP to ASP.Net to ASP.Net MVC and out
+title: You're up and running!
 ---
 
 It's been sometime since I posted something here, even sometime since I posted something at all anywhere else.
@@ -19,13 +19,13 @@ I decided early on that I will learn as little Web Controls as possible and that
 
 If i could go back in time, and if I had the knowledge that I have today, I wouldn't have switched to .Net at all. don't get me wrong, it's a very powerful framework, but it really distracted me from working on features of my projects, to working towards making those tools work for me, the switch was harsh that I stumpled so many times, and I still remember when .Net 2.0 was introduced, when alot of the namespaces where changed for no apparent reason rather than keeping things logical to the .Net Team.
 
-It was distracting to have to switch so harsh between versions, but thanks God that was the only major change that I encountered.
+It was distracting to have to switch so harsh between versions, but it didn't stop here, what a major pain was that project called ASP.Net Atlas.
 
-Comes ASP.Net MVC which I was envovled with before it was even given a name, that time when it was called Atlas, as I recall, and it was another major change, yet everybody said that it's not mandotary and that you can keep using ASP.Net WebForms, but MVC just felt back home, back to the days when you can mix Razor (C#) with HTML, it felt HOME.
+Comes ASP.Net MVC which I was envovled with early on, and it was another major change, yet everybody said that it's not mandotary and that you can keep using ASP.Net WebForms, but MVC just felt back home, back to the days when you can mix Razor (C#) with HTML, it felt HOME.
 
-Yes I made the switch and it was overwelming to be back to logical web, to full control over the output, to controling your <br />s and clearfix. But I wonder where did 12 years of WebForms went, YES I have created some very powerful projects with it, I have impressed people with initial productive work, but I have almost always struggled with the tiny bits of problems, the things that I think shouldn't have taken this much time from me. it seemed quick and productive, it felt like it could bring me peice of mind, but it was far behind that.
+Yes I made the switch and it was overwelming to be back to logical web, to full control over the output, to controling your `<br />`s and clearfix. But I wonder where did 12 years of WebForms went, YES I have created some very powerful projects with it, I have impressed people with initial productive work, but I have almost always struggled with the tiny bits of problems, the things that I think shouldn't have taken this much time from me. it seemed quick and productive, it felt like it could bring me peace of mind, but it was far behind that.
 
-I don't know if this is part of the marketing strategy of Microsoft, or if I was just been outa shap with it, but I promise to never go back. If I get stuck in code and search for solution early before deployment and dig right into it's roots in the WWW, then I'm happy to do that once and for all. but if I find ready Control that promise to give me what I want, and then fail me later on with no clue into what's inside the box, then I'm making the wrong choice.
+I don't know if this is part of the marketing strategy of Microsoft, or if I was just been out of shape with it, but I promise to never go back. If I get stuck in code and search for solution early before deployment and dig right into it's roots in the WWW, then I'm happy to do that once and for all. but if I find ready Control that promise to give me what I want, and then fail me later on with no clue into what's inside the box, then I'm making the wrong choice.
 
 Open-source have a barrier of knowledge, that Microsoft in this example is taking advantage of, trust me I don't mind that, I could point out Microsoft Technologies for a newbie anytime, and if easy visual makes them a potential programmers (Developers) then I'm happy it did that for them, but it's not a good choice to run something that you care about with.
 
