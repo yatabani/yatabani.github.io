@@ -22,6 +22,6 @@ Most of my speciality work was with Microsoft Techs, but I keep my hand dirty wi
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yasiratabani@gmail.com](mailto:yasiratabani@gmail.com)
 
 This is my blog, and I will keep you updated  

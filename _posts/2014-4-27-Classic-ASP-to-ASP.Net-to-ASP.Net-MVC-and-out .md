@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: "Classic ASP to ASP.Net to ASP.Net MVC and out"
 ---
 
 It's been sometime since I posted something here, even sometime since I posted something at all anywhere else.
