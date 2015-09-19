@@ -471,14 +471,14 @@ header h2 {
   letter-spacing: 0;
 }
 
-header nav {
+header > nav {
   position: absolute;
   bottom: 0;
   right: 0;
   font-size:20px;
 }
 
-header nav a {
+header > nav > a {
   color:#ccc !important;
 }
 
@@ -837,7 +837,7 @@ footer a:hover {
   header h2 {
     font-size: 24px;
   }
-  header nav {
+  header > nav {
     position: relative;
     display: inline-block;
     width: auto;
