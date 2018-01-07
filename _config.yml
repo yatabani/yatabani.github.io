@@ -25,9 +25,9 @@ links:
   instagram: yatabani
   linkedin: yatabani
   pinterest: yatabani
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: yes
   twitter: yatabani
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/1676446/yatabani
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -45,16 +45,6 @@ google_analytics:  UA-67546811-1
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: "http://yatabani.com"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
 markdown: kramdown
 highlighter: rouge
