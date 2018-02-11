@@ -7,7 +7,7 @@ First let's evaluate the reasons behind [Cozeit](http://cozeit.com) in the first
 
 ## History
 
-Cozeit stands for cozy technologies that is delivered in timely manner.
+[Cozeit](http://cozeit.com) stands for cozy technologies that is delivered in timely manner.
 
 Cozy Tech an idea that started early 2010, because a given system does 
 need to speak it's users
@@ -32,4 +32,23 @@ is a key factor to any system success
 
 ## Getting things done
 
- 
+Delivering a software is not only about delivering the code, or a working application,
+it's always as important if not more to deliver in timely manner, the balance between
+delivering a software application that has "complete" feature set vs delivering timely
+is a fine one.
+
+Management of release cycle, and evolving user's experience is at the core of our belief, it's
+sometimes there are gray areas, but overall it's better to deliver something easy to understand
+and evolve as your users get more experience with your application, just in time when they start
+to get board or think they have seen enough, release the next version.
+
+Keep your user base excited and tuned, and learn from your users.
+
+## We think we can
+
+Yes we think we can deliver something unique and can provide added value. We think we can improve
+your product, and introduce new ideas.
+
+This post started as just a thought for me to keep track of what I think of Cozeit, but turned into 
+"marketing" material maybe I can use some of it in the future.
+
