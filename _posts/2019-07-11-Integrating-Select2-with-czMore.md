@@ -14,7 +14,7 @@ The solution is to activate the plugin after the addition of the DOM objects by 
 
 ## Example
 
-```
+```javascript
 $("#czContainer").czMore({
         onAdd: function() {
             $("input[id$='_suffix']").select2();
