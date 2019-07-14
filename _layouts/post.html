@@ -22,7 +22,10 @@ layout: default
   {% endif %}
 </nav><!-- /.pagination -->
 
-  {{ page.disable_comments }}
-  {% include disqus.html %}
+  {% if page.disable_comments %}
+    <div class="comments">Comments have been disabled</div>
+  {% else %}
+    {% include disqus.html %}
+  {% endif %}
 
 </article>
