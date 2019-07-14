@@ -22,5 +22,7 @@ layout: default
   {% endif %}
 </nav><!-- /.pagination -->
 
+  {% if !page.disable_comments %}
   {% include disqus.html %}
+  {% endif %}
 </article>
