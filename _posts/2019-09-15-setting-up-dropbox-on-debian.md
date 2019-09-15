@@ -5,7 +5,7 @@ title: Setting up Dropbox on Debian
 
 Setting up Dropbox on Debian from the offical Dropbox repository saves you from downloading dropbox binary everytime, and easies the management of the package.
 
-Until recently Dropbox offical repository for debian only had jessie, which had now changed.
+Until recently Dropbox offical repository for debian only had jessie, that have changed now.
 
 I will try to give you a guide to setting it up, and cover some problems I have faced in the past
 
@@ -29,13 +29,13 @@ Add the url to the offical Dropbox repository with the version as follows
 deb [arch=i386,amd64] http://linux.dropbox.com/debian buster main
 ```
 
-As for the date of writing this the offical repository supported 
+As of the date of writing this the offical repository supported 
 - Buster
 - Stretch
 - Jessie
 - Sid
 
-choose the version you are using.
+Choose the version you are using.
 
 ### Add the PGP key
 
