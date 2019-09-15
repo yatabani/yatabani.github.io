@@ -108,7 +108,6 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  background:blue;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -176,7 +175,12 @@ section {
   float:left;
   padding-bottom:50px;
 }
-
+.sidebar {
+    float:left;
+    width:280px;
+    background: #3d4f5d;
+    color: #fff;
+}
 small {
   font-size:11px;
 }
