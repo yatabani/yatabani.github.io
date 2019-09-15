@@ -11,7 +11,7 @@ I will try to give you a guide to setting it up, and cover some problems I have 
 
 ## Intro
 
-If you don't have Dropbox yet now is a good time to [Signup for a free account](https://dp.tt/).
+If you don't have Dropbox yet now is a good time to [Signup for a free account](https://db.tt/Fx5tGN3Cqr).
 
 ### Create file
 Create a file in the sources directory for Dropbox 
