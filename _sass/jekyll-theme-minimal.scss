@@ -172,6 +172,10 @@ header ul a strong {
   color:#222;
 }
 
+header a hr {
+  color:#fff;
+}
+
 section {
   padding:50px;
   margin-left:300px;
@@ -192,7 +196,8 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:20px;
+  left:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
