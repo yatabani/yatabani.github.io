@@ -56,13 +56,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  float:left;
-  width:auto;
-  margin:0 auto;
-  padding-top:50px;
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -112,6 +105,9 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background: #3d4f5d;
+  color: #fff;
+  padding:15px;
 }
 
 header ul {
@@ -175,15 +171,10 @@ header ul a strong {
 }
 
 section {
-  padding-bottom:50px;
+  padding:50px;
+  margin-left:300px;
 }
-.sidebar {
-    float:left;
-    width:280px;
-    background: #3d4f5d;
-    color: #fff;
-    height:100%;
-}
+
 small {
   font-size:11px;
 }
@@ -204,12 +195,6 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
   header, section, footer {
     float:none;
     position:static;
@@ -257,16 +242,16 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
-
   header ul {
     width:99%;
   }
 
   header li, header ul li + li + li {
     width:33%;
+  }
+  
+  section{
+    padding-left:33%;
   }
 }
 
