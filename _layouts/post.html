@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post">
+
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
 
@@ -13,19 +13,4 @@ layout: default
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
 
-<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.baseurl }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.baseurl }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next</a>
-  {% endif %}
-</nav><!-- /.pagination -->
-
-  {% if page.disable_comments %}
-    <div class="comments">Comments have been disabled</div>
-  {% else %}
-    {% include disqus.html %}
-  {% endif %}
-
-</article>
+  {% include disqus.html %}

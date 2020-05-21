@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello again
-disable_comments: True
 ---
 
 Hello from my want to be last, or long lasting blog. For years I wanted to keep a blog up and running for a long time, I think since 2004,

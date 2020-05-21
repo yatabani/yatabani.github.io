@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Speeding up unit tests in django
-tags:
-  - Django
-  - PostgresSql
 ---
 
 Hi, this blog post said it all, and I would like to reference it for future use.

@@ -1,10 +1,6 @@
 ---
 layout: post
 title: czMore Open-Source jQuery Plugin
-tags:
-  - czMore
-  - Javascript
-  - jQuery
 ---
 
 So here is the story beind jQuery [czMore](http://cozeit.github.io/czMore) Plugin, this plugin came about enhacing the user interface and allowing
