@@ -13,15 +13,15 @@ Since the early days I started with Classic ASP, or ASP 3.0 even before that may
 
 Because at that time I haven't had much knowledge to judge the goodness of a technology, I made the quick move towards it, thinking and reading that it's the great great new thing that will change our lives forever.
 
-I started with ASP.Net even before Visual Studio had support for it, I remember writing my codes in Notepad, and then compiling it with csc.exe, to produce the .dll file. I remember I had too much trouble around the Web Controls idea, and the whole idea that you just need to put another layer of abstraction, and throughout the years I have struggled with the changes to those controls.
+I started with ASP.Net even before Visual Studio had support for it, I remember writing my codes in Notepad, and then compiling it with csc.exe, to produce the .dll file. I remember I had to much trouble around the Web Controls idea, and the whole idea that you just need to put another layer of abstraction, and throughout the years I have struggled with the changes to those controls.
 
-I decided early on that I will learn as little Web Controls as possible and that I will keep as much code as possible, for the firm believe that the code will live forever, but the controllers will change sooner or later, I never used SqlDataSources, never ObjectDataSource, and the only way I saw logical to make the transition, and for the technology to be worth the shift, was to have everything turned into objects in a model layer, and the whole n-tier logic.
+I decided early on that I will learn as little Web Controls as possible and that I will keep as much code as possible, for the firm believe that the code will leave forever but the controllers will change sooner or later, I never used SqlDataSources, never ObjectDataSource, and the only way I say it logical to make the transformation and for it to be useful was to have everything turned into objects in a model layer, and the whole n-tier logic.
 
 If I could go back in time, and if I had the knowledge that I have today, I wouldn't have switched to .Net at all. don't get me wrong, it's a very powerful framework, but it really distracted me from working on features of my projects, to working towards making those tools work for me, the switch was harsh that I stumbled so many times, and I still remember when .Net 2.0 was introduced, when a lot of the namespaces where changed for no apparent reason, other than keeping things logical to the .Net Team.
 
-It was distracting to have to switch between versions, but it didn't stop here, what a major pain was that project called ASP.Net Atlas.
+It was distracting to have to switch so harsh between versions, but it didn't stop here, what a major pain was that project called ASP.Net Atlas.
 
-Comes ASP.Net MVC which I was involved with early on, and it was another major change, yet everybody said that it's not mandatory and that you can keep using ASP.Net WebForms, but MVC just felt back home, back to the days when you can mix code (Razor C#) with HTML, it felt HOME.
+Comes ASP.Net MVC which I was involved with early on, and it was another major change, yet everybody said that it's not mandatory and that you can keep using ASP.Net WebForms, but MVC just felt back home, back to the days when you can mix Razor (C#) with HTML, it felt HOME.
 
 Yes I made the switch and it was overwhelming to be back to logical web, to have full control over the output, to controlling your `<br />`s and clearfix. But I wonder where did 12 years of WebForms went, YES I have created some very powerful projects with it, I have impressed people with initial productive work, but I have almost always struggled with the tiny bits of problems, the things that I think shouldn't have taken this much time from me. it seemed quick and productive, it felt like it could bring me peace of mind, but it was far behind that.
 
