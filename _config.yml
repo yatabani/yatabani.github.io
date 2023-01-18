@@ -48,7 +48,7 @@ google_analytics:  UA-67546811-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://yatabani.com"
+url: "http://yatabani.github.io"
 
 markdown: kramdown
 highlighter: rouge
